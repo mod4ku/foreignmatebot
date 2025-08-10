@@ -2,7 +2,6 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/python-_3.13-red" alt="Версия Python">
-   <img src="https://img.shields.io/badge/Version-_v1.0-blue"alt="Версия проекта">
 </p>
 
 ## О проекте
