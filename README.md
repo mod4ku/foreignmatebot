@@ -1,4 +1,4 @@
-<h1 align="center">🎓Bot for searching study buddy🎓</h1>
+<h1 align="center">🎓Bot for searching study buddy</h1>
 
 <p align="center">
    <img src="https://img.shields.io/badge/python-_3.13-red" alt="Версия Python">
