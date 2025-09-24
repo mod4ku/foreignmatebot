@@ -69,6 +69,8 @@ System Dependencies
 ```
 python main.py
 ```
+## ⛓️Link
+*   [ForeignMate bot](https://t.me/foreignmatebot)
 
 ## 🛠Developer
 
